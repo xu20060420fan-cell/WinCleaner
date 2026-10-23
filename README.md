@@ -7,6 +7,32 @@ Windows 系统清理与安全分析工具（Python 3.12 + PyQt6）。
 
 ---
 
+## 界面预览
+
+<details open>
+<summary><b>点击展开 9 个页面截图</b></summary>
+
+| 主面板 | 垃圾清理 | 空间分析 |
+|:---:|:---:|:---:|
+| <img src="audit/screens/page0_dashboard.png" width="420"> | <img src="audit/screens/page1_junk.png" width="420"> | <img src="audit/screens/page2_space.png" width="420"> |
+
+| 大文件扫描 | 重复文件 | 启动项管理 |
+|:---:|:---:|:---:|
+| <img src="audit/screens/page3_largefile.png" width="420"> | <img src="audit/screens/page4_dup.png" width="420"> | <img src="audit/screens/page5_startup.png" width="420"> |
+
+| 流氓软件分析 | 运行日志 | 设置 |
+|:---:|:---:|:---:|
+| <img src="audit/screens/page6_adware.png" width="420"> | <img src="audit/screens/page7_log.png" width="420"> | <img src="audit/screens/page8_settings.png" width="420"> |
+
+</details>
+
+### 下载
+
+- **Releases 页**提供免安装单文件 `WinCleaner.exe`（约 36 MB，双击即用）。
+- 也可以用源码运行，见下方[快速开始](#快速开始)。
+
+---
+
 ## 功能
 
 | 模块 | 能力 |
