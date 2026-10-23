@@ -1,0 +1,47 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+
+# ---- 虚拟环境 ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- 构建产物 ----
+build/
+dist/
+*.spec.bak
+version_info.txt
+
+# ---- 运行时数据（含本机路径与用户痕迹，不要提交） ----
+logs/
+*.log
+clean_actions.log
+history.json
+startup_backup-*.json
+
+# ---- 整屏截图（含桌面其它窗口的隐私内容） ----
+audit/screens/exe_*.png
+audit/screens/*_fullscreen.png
+audit_wincleaner_window.png
+
+# ---- 编辑器 / IDE ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- 临时文件 ----
+*.tmp
+*.bak
+*.old
+Thumbs.db
+desktop.ini
+.DS_Store
